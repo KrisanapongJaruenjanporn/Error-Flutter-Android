@@ -48,12 +48,13 @@ Edit environment variables for your account > เลือกที่ Path > �
 <br>
 <img width="226" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/ec17fa4f-f1e9-4d78-af5a-90292b67a243">
 <br>
-✔️✔️✔️
-<br>
-วิธีแก้
-<br>
 <img width="394" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/b6d26713-3734-4fda-a0a7-ace06755c9a2">
 <br>
 เช็ค Flutter & Dart ให้ถูก
 
 แล้ว Run Devices เดียวมันขึ้นเอง
+<br>
+✔️✔️✔️
+<br>
+วิธีแก้
+
