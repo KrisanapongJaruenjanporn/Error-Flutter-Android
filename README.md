@@ -18,6 +18,8 @@ Edit environment variables for your account > เลือกที่ Path > �
 ถ้าขึ้นแบบนี้
 ❌
 <br>
+<mark>ERROR unable to locate android sdk</mark>
+<br>
 <img width="563" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/03659bae-d21c-4931-8b1c-81ef8e2e3771">
 <br>
 วิธีแก้
@@ -32,5 +34,24 @@ Edit environment variables for your account > เลือกที่ Path > �
 
 ถ้าขึ้น ✔️ <br>
 <img width="693" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/2f5fd072-3802-4437-88c3-3414a324d908">
+---
 
-
+## Check Flutter & Dart SDK Path
+<br>
+<img width="394" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/b6d26713-3734-4fda-a0a7-ace06755c9a2">
+<br>
+ ## ไม่เจอปุ่ม main.dart ?
+<br>
+<img width="208" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/7e086aa4-b05a-461b-b711-f372c323a4a4">
+<br>
+❌❌❌
+<br>
+<img width="226" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/ec17fa4f-f1e9-4d78-af5a-90292b67a243">
+<br>
+✔️✔️✔️
+<br>
+วิธีแก้
+<br>
+<img width="394" alt="image" src="https://github.com/KrisanapongJaruenjanporn/Error-Flutter-Android/assets/121858059/b6d26713-3734-4fda-a0a7-ace06755c9a2">
+<br>
+เช็ค Flutter & Dart 
